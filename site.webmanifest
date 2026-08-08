@@ -1,0 +1,31 @@
+{
+  "name": "احسب أونلاين — أدوات حاسبة ومحوّلات",
+  "short_name": "احسب",
+  "description": "أدوات حاسبة ومحوّلات عربية مجانية: تحويل التاريخ الهجري والميلادي، حساب العمر، النسبة المئوية، ووحدات القياس.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
